@@ -1,0 +1,10 @@
+﻿  Bullet.cpp
+  Collision.cpp
+  Game.cpp
+  GameOver.cpp
+  LevelStart.cpp
+  MainMenu.cpp
+  PlayingState.cpp
+  System.cpp
+  Generating Code...
+  Asteroids.vcxproj -> D:\teme\extra-curricular\asteroidtest\x64\Debug\Asteroids.exe

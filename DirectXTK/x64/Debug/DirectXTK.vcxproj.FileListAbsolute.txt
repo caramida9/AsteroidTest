@@ -1,0 +1,2 @@
+D:\teme\extra-curricular\asteroidtest\x64\Debug\DirectXTK.pdb
+D:\teme\extra-curricular\asteroidtest\DirectXTK\x64\Debug\DirectXTK.pdb
